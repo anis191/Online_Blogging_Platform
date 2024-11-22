@@ -36,9 +36,9 @@ Follow these steps to set up and run the project locally:
 
 ---
 
-### 1️⃣ Clone the Repository
-
--```bash
+### 1️⃣ Clone the Repository 
+<br>
+```bash
 git clone https://github.com/anis191/Online_Blogging_Platform.git
 
 ### 2️⃣ Set Up the Database
@@ -46,16 +46,17 @@ Locate the SQL file in the `Full_Database/` folder.
 Import it into your MySQL server using **phpMyAdmin** or the MySQL CLI.
 
 ### 3️⃣ Configure the Database Connection
-Edit the `connect.php` file in the project directory and update it with your database credentials:
 
--```php
+Edit the `connect.php` file in the project directory and update it with your database credentials:
+<br>
+```php
 $servername = "localhost";
 $username = "your-username";
 $password = "your-password";
 $dbname = "your-database-name";
 
-#### 4️⃣ Start the Server
-Use a local server like **XAMPP**, **WAMP**, or **MAMP** to host the project files.  
+### 4️⃣ Start the Server
+Use a local server like **XAMPP**, **WAMP**, or **MAMP** to host the project files.
 
 1. Open your server application (e.g., XAMPP).  
 2. Place the project files in the `htdocs` folder (for XAMPP).  
@@ -66,7 +67,8 @@ Use a local server like **XAMPP**, **WAMP**, or **MAMP** to host the project fil
 ### 5️⃣ Access the Application
 
 Once the server is running, open your browser and navigate to the following URL:  
--```text
+<br>
+```text
 http://localhost/Online_Blogging_Platform
 
 ---
@@ -74,7 +76,7 @@ http://localhost/Online_Blogging_Platform
 ## 🌐 Live Demo
 
 This project is live and accessible online:  
-👉 [**View Live Demo**](onlineBlog.infinityfreeapp.com)
+👉 **View Live Demo :**onlineBlog.infinityfreeapp.com
 
 ---
 
@@ -107,7 +109,7 @@ Contributions are welcome! Follow these steps to contribute:
 
 ## 🧑‍💻 Author
 
-Developed with 💙 by Anisul Alam
+Developed with 💙 by **Anisul Alam**<br>
 **Connect with me on LinkedIn:** https://www.linkedin.com/in/anisul-alam-a330042a9/
 
 ---
