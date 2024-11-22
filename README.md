@@ -37,25 +37,29 @@ Follow these steps to set up and run the project locally:
 ---
 
 ### 1️⃣ Clone the Repository 
-<br>
+
 ```bash
 git clone https://github.com/anis191/Online_Blogging_Platform.git
+```
 
 ### 2️⃣ Set Up the Database
+
 Locate the SQL file in the `Full_Database/` folder.  
 Import it into your MySQL server using **phpMyAdmin** or the MySQL CLI.
 
 ### 3️⃣ Configure the Database Connection
 
 Edit the `connect.php` file in the project directory and update it with your database credentials:
-<br>
+
 ```php
 $servername = "localhost";
 $username = "your-username";
 $password = "your-password";
 $dbname = "your-database-name";
+```
 
 ### 4️⃣ Start the Server
+
 Use a local server like **XAMPP**, **WAMP**, or **MAMP** to host the project files.
 
 1. Open your server application (e.g., XAMPP).  
@@ -67,16 +71,16 @@ Use a local server like **XAMPP**, **WAMP**, or **MAMP** to host the project fil
 ### 5️⃣ Access the Application
 
 Once the server is running, open your browser and navigate to the following URL:  
-<br>
+
 ```text
 http://localhost/Online_Blogging_Platform
-
+```
 ---
 
 ## 🌐 Live Demo
 
 This project is live and accessible online:  
-👉 **View Live Demo :**onlineBlog.infinityfreeapp.com
+👉 **View Live Demo :** onlineBlog.infinityfreeapp.com
 
 ---
 
