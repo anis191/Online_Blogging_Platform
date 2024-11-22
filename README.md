@@ -113,7 +113,9 @@ Contributions are welcome! Follow these steps to contribute:
 
 ## 🧑‍💻 Author
 
-Developed with 💙 by **Anisul Alam**<br>
-**Connect with me on LinkedIn:** https://www.linkedin.com/in/anisul-alam-a330042a9/
+Developed with 💙 by **Anisul Alam**
+
+- Connect with me on [**LinkedIn**](https://www.linkedin.com/in/anisul-alam-a330042a9/) [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png)](https://www.linkedin.com/in/anisul-alam-a330042a9/)
+- Check out my work on [**GitHub**](https://github.com/anis191) [![GitHub](https://upload.wikimedia.org/wikipedia/commons/6/60/GitHub_Logo_2023.png)](https://github.com/anis191)
 
 ---
