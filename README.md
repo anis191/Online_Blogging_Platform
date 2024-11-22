@@ -34,7 +34,10 @@ A complete blogging platform built with **PHP** and **MySQL**, offering robust f
 
 Follow these steps to set up and run the project locally:
 
+---
+
 ### 1️⃣ Clone the Repository
+
 ```bash
 git clone https://github.com/anis191/Online_Blogging_Platform.git
 
