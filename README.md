@@ -111,11 +111,13 @@ Contributions are welcome! Follow these steps to contribute:
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
-Developed with 💙 by **Anisul Alam**
+**Anisul Alam**  
+Full-Stack Developer | Django | React | PostgreSQL
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/anisul-alam-a330042a9/)
-- Find more of my work on [GitHub](https://github.com/anis191)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anisulalam/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://anisulalam.vercel.app/)
+
 
 ---
